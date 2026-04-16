@@ -2,7 +2,7 @@ transformers
 transformers[sentencepiece]
 datasets
 sacrebleu
-roguescore
+rouge-score
 py7zr
 matplotlib
 torch
@@ -12,6 +12,6 @@ mypy-boto3-s3
 python-box==6.0.2
 ensure==1.0.2
 fastapi==0.78.0
-inuvcorn==0.18.0
+uvicorn==0.18.0
 Jinja2==3.1.2
 -e .
