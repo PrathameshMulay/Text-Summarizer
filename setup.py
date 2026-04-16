@@ -6,7 +6,7 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 __version__="0.0.0"
 
-REPO_NAME= "Text-Summarizer"
+REPO_NAME= "Text_Summarizer"
 AUTHOR_USER_NAME= "PrathameshMulay"
 SRC_REPO= "text_summarizer"
 AUTHOR_EMAIL="PRATHAMESH.MULAY5@GMAIL.COM"
